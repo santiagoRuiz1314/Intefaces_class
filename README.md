@@ -10,7 +10,7 @@ Diseñada con estética profesional y fácil de adaptar, TRAVELER permite a los 
 
 **TRAVELER** es una plantilla gratuita para sitios web de viajes desarrollada por [HTML Codex](https://htmlcodex.com). Está diseñada con un enfoque moderno y adaptable para presentar destinos, paquetes turísticos, servicios de guías y más. Esta plantilla es ideal para agencias de viajes, blogs de turismo o proyectos académicos orientados al diseño web.
 
-## ⚖️ Tecnologías y Herramientas Utilizadas
+##  Tecnologías y Herramientas Utilizadas
 
 * **HTML5** y **CSS3**
 * **JavaScript**
@@ -21,7 +21,7 @@ Diseñada con estética profesional y fácil de adaptar, TRAVELER permite a los 
 * **Owl Carousel** (galerías y sliders)
 * **Tempus Dominus** (selector de fechas y horarios)
 
-## 🚀 Instalación y Ejecución
+##  Instalación y Ejecución
 
 1. **Clona o descarga** este repositorio:
 
@@ -39,7 +39,7 @@ Diseñada con estética profesional y fácil de adaptar, TRAVELER permite a los 
 
 > No se requiere un servidor backend para probar esta plantilla.
 
-## 📃 Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```
 free-travel-website-template/
